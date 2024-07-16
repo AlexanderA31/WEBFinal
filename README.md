@@ -61,6 +61,14 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 
 ## Revisar los Reportes del Proyecto 
 
+### Ubicacion de los reportes:
+
+    C:\Users\ufred\IdeaProjects\BlazeWeb\target\cucumber
+
+![imagen](https://github.com/user-attachments/assets/20230a5c-35c9-456f-a8de-b0a3f125dc8c)
+
+### Como abrir los reportes
+
 ![c9cbb96a-6ff8-4a0f-84d1-f46617c88f93](https://github.com/user-attachments/assets/3254e4fa-f31c-4a4c-a331-34d13bc988ae)
 
 ## Reportes 
