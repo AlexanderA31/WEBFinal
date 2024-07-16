@@ -65,9 +65,9 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 
 ## Reportes 
 
-![fb2a236d-5f1b-4fb0-acd5-926fd824257d](https://github.com/user-attachments/assets/b5b63ce0-bdbb-46e4-8d3e-e93d5c71ae71)
+![imagen](https://github.com/user-attachments/assets/2a0a0cc7-9fc3-4ba0-b082-1b12d9a4b3a9)
 
-![cca97bf6-b419-44ff-a0a8-59533fdd8e90](https://github.com/user-attachments/assets/6de32609-373d-4d15-8956-8a2a655cd316)
+![imagen](https://github.com/user-attachments/assets/242c09fe-d316-4acc-8352-581c56f8104d)
 
 
 
