@@ -58,7 +58,7 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 
     C:\Users\ufred\IdeaProjects\BlazeWeb\src\test\java\com\nttdata\runner\RunnerTest.java
 
-![d455186e-fd1f-4cbb-a210-8649a78eee58](https://github.com/user-attachments/assets/a031649d-0f17-46c7-9d47-a6b94eebe6ba)
+![imagen](https://github.com/user-attachments/assets/17b6465c-0196-4b57-b3bf-fced36c8d647)
 
 ## Como realizar las pruebas
 
