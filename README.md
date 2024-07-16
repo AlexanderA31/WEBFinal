@@ -106,7 +106,7 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 │               │   └── RunnerTest
 │               ├── steps
 │               │   └── BlazeStep
-│               ├── Stepsdefinitions
+│               └── Stepsdefinitions
 │                   └── BlazeStepDef
 └── resources
     └── features
