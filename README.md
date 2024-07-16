@@ -54,10 +54,21 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 
 ### Resultados del Test
 
-### Ejecución del Proyecto 
+### Ejecución del Proyecto:
+
+    C:\Users\ufred\IdeaProjects\BlazeWeb\src\test\java\com\nttdata\runner\RunnerTest.java
 
 ![d455186e-fd1f-4cbb-a210-8649a78eee58](https://github.com/user-attachments/assets/a031649d-0f17-46c7-9d47-a6b94eebe6ba)
 
+## Como realizar las pruebas
+
+### Las pruebas se realizan con el siguiente comando
+
+    mvn test
+
+![imagen](https://github.com/user-attachments/assets/1da18f61-d7e0-4497-a23c-5881315f558e)
+
+![imagen](https://github.com/user-attachments/assets/65617e6c-9004-40d2-ba6f-337b0251b1b8)
 
 ## Revisar los Reportes del Proyecto 
 
