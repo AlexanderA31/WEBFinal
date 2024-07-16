@@ -52,13 +52,17 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 
 ## Resultados Obtenidos
 
-### Resultados del Test
+### Verificamos el Feature
 
-### Ejecución del Proyecto:
+![imagen](https://github.com/user-attachments/assets/fd2d83eb-4704-4e90-99fc-01f0e9f6e576)
+
+### Ejecución del Proyecto en el runner:
 
     C:\Users\ufred\IdeaProjects\BlazeWeb\src\test\java\com\nttdata\runner\RunnerTest.java
 
 ![imagen](https://github.com/user-attachments/assets/17b6465c-0196-4b57-b3bf-fced36c8d647)
+
+
 
 ## Como realizar las pruebas
 
