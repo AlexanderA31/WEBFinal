@@ -84,7 +84,7 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 
 ### Como abrir los reportes
 
-![c9cbb96a-6ff8-4a0f-84d1-f46617c88f93](https://github.com/user-attachments/assets/3254e4fa-f31c-4a4c-a331-34d13bc988ae)
+![imagen](https://github.com/user-attachments/assets/485929c5-5cb5-4ffd-b84b-9c7c75c8c9e1)
 
 ## Reportes 
 
